@@ -32,11 +32,11 @@ By the way, a lot of IBM terms are so familiar to you, but they are so 'serious'
 
 - Create a new library dataset for the JCL sources (or use your favorite existing one)
 
-- - Create a new library dataset for the COBOL sources (or use your favorite existing one)
+- Create a new library dataset for the COBOL sources (or use your favorite existing one)
 
 - Create a new library member for the JCL TEST# source
 
-- - Create a new library member for the COBOL TEST# source
+- Create a new library member for the COBOL TEST# source
 
 - Put the code from TEST#.jcl source to the dataset member
 

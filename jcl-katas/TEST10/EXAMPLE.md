@@ -25,8 +25,6 @@ Simple IBM defined procedure call with LNGPRFX parameter override
 
 - Put the code from TEST#.jcl source to the dataset member
 
-- Put the SORTPROC.jcl source into your PROCLIB and specify the YOUR_PROCLIB in the TEST#.jcl
-
 - Edit the code with the changes, that you need
 
 - Save the changes with SAVE command
