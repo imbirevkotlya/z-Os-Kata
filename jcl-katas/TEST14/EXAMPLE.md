@@ -10,7 +10,7 @@ More info here - [IBM Documentation](https://www.ibm.com/support/knowledgecenter
 
 Using STEPNAME.JCLOPTIONNAME (ex. GO.SYSIN) you can define different options for the procedure steps.
 
-Using GO.SYSIN you can provide the incoming arguments for the COBOL source (more info can be found [here](http://www.simotime.com/cblpar01.htm)
+Using GO.SYSIN you can provide the incoming arguments for the COBOL source (more info can be found [here](http://www.simotime.com/cblpar01.htm))
 
 
 ### Acknowledges
@@ -30,9 +30,9 @@ Using GO.SYSIN you can provide the incoming arguments for the COBOL source (more
 
 - Put the code from TEST#.jcl source to the dataset member
 
-- Create input/output datasets for your pgm
+- Create input/output datasets for your pgm (using prev examples)
 
-- Create COBOL library (if needed) and code there your COBOL source
+- Create COBOL library (if needed) and put/write there your COBOL source
 
 - Edit the JCL code with the changes, that you need
 
